@@ -355,11 +355,13 @@ html, body {
 
 header {
   margin: auto;
+  margin-top: 2%;
   text-align:center;
 }
 
 .container {
-border-radius: 18px;
+  display: inline-block;
+  text-align: center;
 }
 
 .btn {
@@ -412,10 +414,10 @@ h1 {
   margin: 2%;
 }
 
-.text2 {
-  display:inline-block;
-  text-align: center;
-}
+ .text2 {
+   display:inline-block; 
+   text-align: center;
+ }
 
 .fire {
   display: block;
