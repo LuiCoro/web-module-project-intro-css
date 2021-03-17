@@ -348,10 +348,24 @@ template {
   display: none;
 }
 
+.box1 {
+  display: inline-block;
+  background-color: #FF764E;
+}
+.box2 {
+  background-color: #5ED3EB;
+}
+.box3 {
+  background-color: #FFCD69;
+}
+
 h1 {
   color: blue;
 }
 
+footer {
+  background-color: #F9E7DC;
+}
 
 /*Rem should only be used on font-size
 Em is the relationship of the  child to the parent
